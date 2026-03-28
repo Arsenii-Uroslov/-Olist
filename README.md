@@ -18,7 +18,7 @@
 * /sql - SQL-скрипты для расчета ключевых метрик.
 * /dashboard - файл отчета Power BI (.pbix).
 * /images - скриншоты дашборда для документации.
-* /dataset - датасет Olist
+* /data - датасет Olist
 * /python - загрузка данных
 
 ---
@@ -46,17 +46,17 @@
 ## 🖼 Визуализация дашборда
 
 ### Страница 1: Продажи и способы оплаты
-![Sales Dashboard](./images/MoM growth и revenue.png)
+![Sales Dashboard](./images/MoM_growth_и_revenue.png)
 
 ### Страница 2: Эффективность логистики
-![Logistics Dashboard](./images/Эффективность логистики.png)
+![Logistics Dashboard](./images/Эффективность_логистики.png)
 
 ### Страница 3: Когортный анализ (Retention)
-![Retention Dashboard](./images/LTV и Retention.png)
+![Retention Dashboard](./images/LTV_и_Retention.png)
 
 ---
 
 ## Как использовать проект
 1. SQL код: Все запросы для подготовки данных находятся в папке [`/sql`](./sql).
 2. Дашборд: Для просмотра интерактивного отчета скачайте файл из папки [`/dashboard`](./dashboard) и откройте в Power BI Desktop.
-3. Данные: Проект базируется на публичном датасете Olist с Kaggle.
+3. Данные: Проект базируется на публичном датасете Olist с Kaggle ['/data'](./data)
