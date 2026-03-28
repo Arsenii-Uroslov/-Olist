@@ -46,7 +46,7 @@
 ## 🖼 Визуализация дашборда
 
 ### Страница 1: Продажи и способы оплаты
-![Sales Dashboard](./images/MoM_growth_и_revenue.png)
+![Sales Dashboard](./images/MoM_growth.png)
 
 ### Страница 2: Эффективность логистики
 ![Logistics Dashboard](./images/Эффективность_логистики.png)
