@@ -46,13 +46,13 @@
 ## 🖼 Визуализация дашборда
 
 ### Страница 1: Продажи и способы оплаты
-![Sales Dashboard](./images/sales.png)
+![Sales Dashboard](./images/MoM growth и revenue.png)
 
 ### Страница 2: Эффективность логистики
-![Logistics Dashboard](./images/logistics.png)
+![Logistics Dashboard](./images/Эффективность логистики.png)
 
 ### Страница 3: Когортный анализ (Retention)
-![Retention Dashboard](./images/retention.png)
+![Retention Dashboard](./images/LTV и Retention.png)
 
 ---
 
